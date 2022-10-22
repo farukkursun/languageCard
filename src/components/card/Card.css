@@ -40,8 +40,8 @@
     object-fit: cover;
 }
 .resim:hover{
-    height: 80px;
-    transition: all 0.5s ease-in-out;
+   transform: scale(1.3);
+    transition:all 0.5s ease-in-out;
 }
 .card-text{
     font-size: 1rem;

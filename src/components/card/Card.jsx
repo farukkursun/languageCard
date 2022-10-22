@@ -12,10 +12,10 @@ const Card = () => {
       </div>
       <div className="cerceve">
         <h2 className=" mb-4 text-white">Languages</h2>
-        {/* <div className="mavi"></div> */}
-        <div className="kartcontainer">
-          {languages.map((veri) => {
-            return <Item veri={veri} />;
+
+        <div className="kartcontainer ">
+          {languages.map((veri, index) => {
+            return <Item veri={veri} key={index} />;
           })}
         </div>
       </div>
