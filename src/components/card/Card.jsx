@@ -5,6 +5,7 @@ import baslik from "../../assets/react.svg";
 import Item from "../item/Item.jsx";
 
 const Card = () => {
+  // console.log(languages);
   return (
     <div className="main">
       <div>
@@ -15,6 +16,7 @@ const Card = () => {
 
         <div className="kartcontainer ">
           {languages.map((veri, index) => {
+            
             return <Item veri={veri} key={index} />;
           })}
         </div>
