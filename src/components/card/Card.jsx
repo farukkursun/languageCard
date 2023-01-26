@@ -5,7 +5,7 @@ import baslik from "../../assets/react.svg";
 import Item from "../item/Item.jsx";
 
 const Card = () => {
-  // console.log(languages);
+ 
   return (
     <div className="main">
       <div>

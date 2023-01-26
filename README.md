@@ -48,4 +48,4 @@ $ yarn start
 
 #### [View Demo](https://faruklanguagescard.netlify.app/)
 
-![Demo](/src/assets/lcard.gif)
+![Demo](/src/assets/Lcard.gif)
