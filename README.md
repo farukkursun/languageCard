@@ -1,6 +1,6 @@
 # React Languagekart
 
-Responsive Movie App made using React and Bootstrap.
+Responsive Language card made using React and Bootstrap.
 
 <hr />
 
